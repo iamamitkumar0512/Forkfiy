@@ -5,7 +5,7 @@ In this project we use the MVC Architecture as well as Webpack for bundling ever
 
 ## BRIEF
 
-Search over 1,000,000 recipes | [**DEMO**](https://forkify-akhr.netlify.app)
+Search over 1,000,000 recipes | [**DEMO**](https://forkfiy-akhr.netlify.app/)
 
 <p>&nbsp;</p>
 
